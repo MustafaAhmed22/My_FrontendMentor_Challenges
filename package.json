@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MustafaAhmed22/My_FrontendMentor_Challenges/issues"
   },
-  "homepage": "https://github.com/MustafaAhmed22/My_FrontendMentor_Challenges#readme"
+  "homepage": "https://github.com/MustafaAhmed22/My_FrontendMentor_Challenges#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.23"
+  }
 }
